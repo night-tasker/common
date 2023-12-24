@@ -1,3 +1,6 @@
 [submodule "common-core"]
 	path = common-core
 	url = https://github.com/night-tasker/common-core
+[submodule "common-messaging"]
+	path = common-messaging
+	url = https://github.com/night-tasker/common-messaging
