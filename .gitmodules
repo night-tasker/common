@@ -4,3 +4,6 @@
 [submodule "common-messaging"]
 	path = common-messaging
 	url = https://github.com/night-tasker/common-messaging
+[submodule "common-grpc"]
+	path = common-grpc
+	url = https://github.com/night-tasker/common-grpc
